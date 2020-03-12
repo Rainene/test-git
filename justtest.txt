@@ -1,0 +1,4 @@
+My name is Rainene.
+This is a test for git excersice!
+Some text
+What's more text
